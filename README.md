@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=MOHAMMED%20IBRAHIM&fontSize=52&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20REST%20API%20Developer&descAlignY=58"/>
@@ -178,4 +178,3 @@ Goal:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
-````
