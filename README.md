@@ -36,8 +36,22 @@ Frontend:
   - CSS3
   - JavaScript
 
-Database:
-  - MySQL
+Databases
+- PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
+- Firebase Firestore
+- Redis
+Backend as a Service (BaaS)
+- Firebase
+- Supabase
+- Appwrite
+ORMs
+- Prisma
+- Sequelize
+- TypeORM
+- Mongoose
 
 Interests:
   - Artificial Intelligence
@@ -81,6 +95,8 @@ Goal:
 
 ████████████████████░░░░  JavaScript
 
+███████████████████████░  Web Security
+
 ███████████████████░░░░░  Node.js
 
 ██████████████████░░░░░░  Express.js
@@ -91,7 +107,6 @@ Goal:
 
 ██████████████░░░░░░░░░░  AI
 
-█████████████░░░░░░░░░░░  Web Security
 ```
 
 ---
